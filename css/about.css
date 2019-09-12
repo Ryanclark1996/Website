@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Courier New', Courier, monospace
+    text-alligm: Center;
+    letter spacing: 10px;
+    font-size: 150px;
+    text-shadow: 5px, 5px, white;
+    margin: 0px;
+}
+.words{
+    font-family: cursive
+    font-weight: bold;
+    font-size: 35px;
+    text-allign: justify;
+    padding: 20px;
+
+}
+.tid-wave{
+    background-image: url(https://www.californiabeaches.com/wp-content/uploads/2017/03/bigs-Aliso-Creek-Park-Beach-in-Laguna-Beach-CA-E1-Large-650x435.jpg)
+    height: 800px;
+    width: 100%;
+    image-rendering: 
+}
+.section{
+    
+}
+.center{
+    text-align: center;
+}

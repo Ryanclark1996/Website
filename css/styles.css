@@ -1,0 +1,117 @@
+/* font-family: 'Hind', sans-serif;
+font-family: 'Noto Sans JP', sans-serif; */
+.nav-bar{
+    background-color: blue;
+     height:150px;
+
+
+}
+.logo{
+    height:150px;
+    width:150px;
+    float: left;
+    position absolute;
+    top:40px;
+    left: 20px; 
+    
+
+}
+li{
+    float: right;
+    list-style-type: none;
+    margin: 15px;
+    color: green;
+    border: 5px solid red;
+    border-radius: 20px;
+}
+h1{
+    color: darkred;
+    text-align: center;
+  }
+  header{
+      height: 300px;
+      background-color: orange;
+  }
+  main{
+      height: 500px;
+      background-color: lightblue;
+  }
+  footer{
+      height: 100px;
+      background-color: black;
+  }
+  .orange{
+      color: rgb(238, 225, 201);
+  }
+  .tank{
+      height:200px;
+      width: 100px;
+  }
+  .product{
+      height:500px;
+      width:200px;
+      float:left;
+  }
+  .inline{
+      display:inline block;
+  }
+  .box{
+      height: 300px;
+      width: 200px;
+      border: 1px solid black;
+      text-allign: center;
+}
+a{
+    text-decoration: aqua;
+    
+}
+a:hover{
+    background-color: black;
+}
+  .orangey{
+      height:400px;
+      width: 10x;
+
+
+  }
+  .white{
+      color:white;
+  }
+  h2{
+    font-family: 'Satisfy', cursive;
+  }
+  .social{
+      height: 60px;
+      width: 60px;
+      display: inline-block;
+      color: red;
+}
+
+      
+    
+      
+  }
+  i{
+        color: orange;
+        height: 50px;
+        width: 50px;
+        float: right;
+
+  }
+  .fab{
+      color: blue;
+      float: right;
+      width 80px;
+      display: inline-block;
+  }
+  .pi{
+      display: inline-block;
+      
+  }
+    
+    
+    
+
+
+
+  
